@@ -1,0 +1,11 @@
+{
+    "Name": "No Farming Challenge Bundles",
+    "Author": "astrorookie",
+    "Version": "1.0.0",
+    "Description": "Gets rid of Quality Crops and Rare Crops Bundles, changes round remixed choices for remaining remixed bundles",
+    "UniqueID": "astrorookie.NoFarmingChallengeBundles",
+    "UpdateKeys": [], //no u
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}
