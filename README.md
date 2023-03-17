@@ -23,4 +23,9 @@ This includes:
 
 
 
-This requires the Content Patcher mod to work
+This requires the Content Patcher mod and Shop Tile Framework to work. Shop Tile framework required Expanded Preconditions, so all the mods required are:
+* [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915)
+* [Shop Tile Framework](https://www.nexusmods.com/stardewvalley/mods/5005)
+* [Expanded Preconditions](https://www.nexusmods.com/stardewvalley/mods/6529)
+
+
