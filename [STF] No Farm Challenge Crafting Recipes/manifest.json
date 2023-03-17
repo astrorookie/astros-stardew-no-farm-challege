@@ -1,0 +1,12 @@
+{
+	"Name": "Crafing Recipes for No Farm Challenge",
+	"Author": "astrorookie",
+	"Version": "1.0",
+	"Description": "Adds the relevant crafting recipes you would usually unlock from farming levels",
+	"UniqueID": "astro.nofarmcraft",
+	"MinimumApiVersion": "3.0.0",
+	"UpdateKeys": [],
+	"ContentPackFor": {
+		"UniqueID": "Cherry.ShopTileFramework"
+  }
+}

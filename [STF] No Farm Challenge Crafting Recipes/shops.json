@@ -1,0 +1,72 @@
+{
+	"VanillaShops":[
+	{
+		"ShopName":"RobinShop",
+		"AddStockAboveVanilla":"false",
+		"ReplaceInsteadOfAdd": "false",
+		"ItemStocks":[
+			{	
+				"ItemType": "BigCraftable", 
+				"ItemNames": ["Stone Chest"],
+				"IsRecipe": true,
+				"StockPrice": 100,
+				"When": ["!HasCraftingRecipe Stone-Chest"],
+			},
+			{	
+				"ItemType": "BigCraftable", 
+				"ItemNames": ["Preserves Jar"],
+				"IsRecipe": true,
+				"StockPrice": 100,
+				"When": ["!HasCraftingRecipe Preserves-Jar"],
+			},
+			{	
+				"ItemType": "BigCraftable", 
+				"ItemNames": ["Cheese Press"],
+				"IsRecipe": true,
+				"StockPrice": 100,
+				"When": ["!HasCraftingRecipe Cheese-Press"],
+			},
+                        {	
+				"ItemType": "BigCraftable", 
+				"ItemNames": ["Keg"],
+				"IsRecipe": true,
+				"StockPrice": 100,
+				"When": ["!HasCraftingRecipe Keg"],
+			},
+                        {	
+				"ItemType": "Object", 
+				"ItemNames": ["Hardwood Fence"],
+				"IsRecipe": true,
+				"StockPrice": 25,
+				"When": ["!HasCraftingRecipe Hardwood-Fence"],
+			},
+                        {	
+				"ItemType": "Object", 
+				"ItemNames": ["Stone Fence"],
+				"IsRecipe": true,
+				"StockPrice": 25,
+				"When": ["!HasCraftingRecipe Stone-Fence"],
+			},
+                        {	
+				"ItemType": "Object", 
+				"ItemNames": ["Iron Fence"],
+				"IsRecipe": true,
+				"StockPrice": 25,
+				"When": ["!HasCraftingRecipe Iron-Fence"],
+			},
+                        {	
+				"ItemType": "Object", 
+				"ItemNames": ["Farmer's Lunch"],
+				"IsRecipe": true,
+				"StockPrice": 25,
+				"When": ["!HasCraftingRecipe Farmers-Lunch"],
+			},
+                        
+		],
+	},
+	
+	]
+ }
+
+
+
