@@ -22,10 +22,12 @@ This includes:
 * Keg
 
 
-
+## Required Mods
 This requires the Content Patcher mod and Shop Tile Framework to work. Shop Tile framework required Expanded Preconditions, so all the mods required are:
 * [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915)
 * [Shop Tile Framework](https://www.nexusmods.com/stardewvalley/mods/5005)
 * [Expanded Preconditions](https://www.nexusmods.com/stardewvalley/mods/6529)
 
 
+## Optional Mods
+The only way to complete quite a lot of the Pantry bundles is via the travelling cart. There is a mod here called [Customizable Cart Reduz](https://www.nexusmods.com/stardewvalley/mods/1402) which lets you edit the travelling merchant visiting days. If you find that sleeping every day simply to check the cart on Friday and Sunday boring, then you can make the merchant appear every day! Or, make the merchant stock more items. I would call this easy mode, however this is what I'm doing and I don't want to sell *myself* short. 
